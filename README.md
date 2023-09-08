@@ -1,7 +1,7 @@
-## Hi there 👋, Im Takuto
+## Hi there 👋, I`m Takuto
 
 
-### Associate engineer living in Japan. 
+### I`m associate engineer living in Japan. 
 
 🌱 I’m currently learning javascript(TS・React・Node)/Python/AWS(serverless)
 
