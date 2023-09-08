@@ -1,12 +1,13 @@
-### Hi there 👋, Im Takuto
+## Hi there 👋, Im Takuto
 
 
-** Inexperienced engineer living in Japan.**
+### Associate engineer living in Japan. 
+
+🌱 I’m currently learning javascript(TS・React・Node)/Python/AWS(serverless)
 
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
