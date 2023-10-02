@@ -3,7 +3,7 @@
 
 ### I`m associate engineer living in Japan. 
 
-🌱 I’m currently learning **Javascript(TS・React・Node)/Python/AWS(serverless)**
+🌱 I’m currently learning **Javascript(TS・node)/Python/AWS**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
